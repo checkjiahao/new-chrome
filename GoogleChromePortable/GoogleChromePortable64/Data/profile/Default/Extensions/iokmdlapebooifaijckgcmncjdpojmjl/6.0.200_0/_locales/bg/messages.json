@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "Неуспешно прокарване на пръст, лошо качество."
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "Лиспва съвпадение."
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "Прокарахте пръста си прекалено бързо."
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "Прокарахте пръста си много нагоре."
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "Прокарахте пръста си прекалено вляво."
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "Прокарахте пръста си много надолу."
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "Прокарахте пръста си прекалено вдясно."
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "Прокарването е прекалено кратко."
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "Прокарването е прекалено разместено."
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "Прокарахте пръста си прекалено бавно."
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "Влезте с главната си парола."
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "Паролата ви е неправилна."
+   },
+   "IDS_LEARN_MORE": {
+      "message": "научете повече"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "Влизане"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "Никога за този сайт"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "Проверката на пръстовите отпечатъци е спряна на пауза. За да продължите, щракнете тук."
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "Запомни паролата"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "Искате ли TrueSuite да запомни паролата ви за достъп до този сайт?"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "Прокарайте пръста си над сензора, за да се впишете със TrueSuite."
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "Въведете главната парола"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "Или въведете паролата за Windows"
+   },
+   "editText": {
+      "message": "Редактиране на уеб карта"
+   },
+   "reportText": {
+      "message": "Съобщи за проблем"
+   },
+   "runAppText": {
+      "message": "Отваряне на TrueSuite..."
+   },
+   "storeText": {
+      "message": "App Store"
+   }
+}

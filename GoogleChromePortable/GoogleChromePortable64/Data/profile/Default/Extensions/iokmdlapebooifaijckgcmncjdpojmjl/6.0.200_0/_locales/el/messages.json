@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "Ακατάλληλο πέρασμα δακτύλου, κακή ποιότητα."
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "Κανένα αποτέλεσμα."
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "Περάσατε το δάκτυλό σας πολύ γρήγορα."
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "Περάσατε το δάκτυλό σας πολύ ψηλά."
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "Περάσατε το δάκτυλό σας πολύ αριστερά."
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "Περάσατε το δάκτυλό σας πολύ χαμηλά."
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "Περάσατε το δάκτυλό σας πολύ δεξιά."
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "Πολύ σύντομο πέρασμα δακτύλου."
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "Το πέρασμα του δακτύλου έγινε πολύ λοξά."
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "Περάσατε το δάκτυλό σας πολύ αργά."
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "Συνδεθείτε με τον κύριο κωδικό πρόσβασης."
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "Εσφαλμένος κωδικός πρόσβασης."
+   },
+   "IDS_LEARN_MORE": {
+      "message": "μάθετε περισσότερα"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "Σύνδεση"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "Ποτέ για αυτήν την τοποθεσία"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "Έγινε παύση της επαλήθευσης δακτυλικού αποτυπώματος. Κάντε κλικ εδώ για να συνεχίσετε."
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "Απομνημόνευση κωδικού πρόσβασης"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "Θέλετε το TrueSuite να απομνημονεύσει τον κωδικό σας πρόσβασης για αυτήν την τοποθεσία;"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "Περάστε το δάχτυλό σας πάνω από τον αισθητήρα για συνδεθείτε με το TrueSuite."
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "Πληκτρολογήστε τον κύριο κωδικό πρόσβασης"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "Ή πληκτρολογήστε τον κωδικό πρόσβασης των Windows"
+   },
+   "editText": {
+      "message": "Επεξεργασία κάρτας web"
+   },
+   "reportText": {
+      "message": "Αναφορά ζητήματος"
+   },
+   "runAppText": {
+      "message": "Άνοιγμα του TrueSuite..."
+   },
+   "storeText": {
+      "message": "App Store"
+   }
+}

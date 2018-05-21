@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "Aţi trecut cu degetul greşit, calitate scăzută."
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "Nicio corespondenţă."
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "Aţi trecut cu degetul prea repede."
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "Aţi trecut cu degetul prea sus."
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "Aţi trecut cu degetul prea la stânga."
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "Aţi trecut cu degetul prea jos."
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "Aţi trecut cu degetul prea la dreapta."
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "Aţi trecut cu degetul prea scurt."
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "Aţi trecut cu degetul înclinat."
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "Aţi trecut cu degetul prea lent."
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "Autentificaţi-vă cu parola principală."
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "Parola este incorectă."
+   },
+   "IDS_LEARN_MORE": {
+      "message": "aflaţi mai mult"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "Conectare"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "Niciodată pentru acest site"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "Verificarea amprentei este suspendată. Faceţi clic aici pentru a continua."
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "Reţine parola"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "Doriţi ca TrueSuite să reţină parola pentru acest site?"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "Treceţi degetul peste senzor pentru conectare cu TrueSuite."
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "Introduceţi parola principală"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "Sau introduceţi parola de Windows"
+   },
+   "editText": {
+      "message": "Editare card Web"
+   },
+   "reportText": {
+      "message": "Raportare problemă"
+   },
+   "runAppText": {
+      "message": "Deschidere TrueSuite..."
+   },
+   "storeText": {
+      "message": "App Store"
+   }
+}

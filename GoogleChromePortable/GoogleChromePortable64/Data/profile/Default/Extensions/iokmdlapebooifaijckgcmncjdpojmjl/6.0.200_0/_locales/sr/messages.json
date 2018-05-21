@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "Лоше превлачење, низак квалитет."
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "Нема подударања."
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "Превукли сте пребрзо."
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "Превукли сте превисоко."
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "Превукли сте превише налево."
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "Превукли сте прениско."
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "Превукли сте превише надесно."
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "Превукли сте прекратко."
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "Превукли сте превише укосо."
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "Превукли сте преспоро."
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "Пријавите се помоћу своје главне лозинке."
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "Лозинка је нетачна."
+   },
+   "IDS_LEARN_MORE": {
+      "message": "сазнајте више"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "Пријављивање"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "Никада за ову локацију"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "Провера отиска прста је паузирана. Кликните овде да бисте наставили."
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "Запамти лозинку"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "Желите ли да апликација TrueSuite запамти вашу лозинку за ову локацију?"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "Пређите прстом преко сензора да бисте се пријавили у апликацију TrueSuite."
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "Унесите главну лозинку"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "Односно, унесите Windows лозинку"
+   },
+   "editText": {
+      "message": "Уреди веб картицу"
+   },
+   "reportText": {
+      "message": "Пријави проблем"
+   },
+   "runAppText": {
+      "message": "Отвори апликацију TrueSuite..."
+   },
+   "storeText": {
+      "message": "App Store"
+   }
+}

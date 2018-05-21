@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "Sobimatu tõmme, madal kvaliteet."
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "Vastet pole."
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "Tõmmati liiga kiiresti."
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "Tõmmati liiga kõrgelt."
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "Tõmmati liiga palju vasakult poolt."
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "Tõmmati liiga madalalt."
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "Tõmmati liiga palju paremalt poolt."
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "Liiga lühike tõmme."
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "Tõmme liiga kaldus."
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "Tõmmati liiga aeglaselt."
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "Logige oma põhiparooliga sisse."
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "Parool on vale."
+   },
+   "IDS_LEARN_MORE": {
+      "message": "lisateave"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "Sisselogimine"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "Selle saidi puhul mitte kunagi"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "Sõrmejälje kontrollimine peatatud. Jätkamiseks klõpsake siin."
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "Jäta parool meelde"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "Kas soovite, et TrueSuite jätaks meelde selle saidi parooli?"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "Tõmmake sõrmega üle anduri ja logige sisse TrueSuite iga."
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "Tippige põhiparool"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "Või tippige Windowsi parool"
+   },
+   "editText": {
+      "message": "Redigeerige veebikaarti"
+   },
+   "reportText": {
+      "message": "Teatage probleemist"
+   },
+   "runAppText": {
+      "message": "Avage TrueSuite ..."
+   },
+   "storeText": {
+      "message": "App Store"
+   }
+}

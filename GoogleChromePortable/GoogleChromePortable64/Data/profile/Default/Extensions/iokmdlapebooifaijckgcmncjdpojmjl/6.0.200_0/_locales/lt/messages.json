@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "Braukiate netinkamai."
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "Atitikmenų nėra."
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "Braukiate per greitai."
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "Braukiate per aukštai."
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "Braukiate kairėje."
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "Braukiate per žemai."
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "Braukiate dešinėje."
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "Braukiate per trumpai."
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "Braukiate įstrižai."
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "Braukiate per lėtai."
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "Prisijunkite naudodami pagrindinį savo slaptažodį."
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "Neteisingas slaptažodis."
+   },
+   "IDS_LEARN_MORE": {
+      "message": "sužinokite daugiau"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "Prisijungti"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "Niekada šioje svetainėje"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "Piršto atspaudo tikrinimas pristabdytas. Norėdami tęsti, spustelėkite čia."
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "Atsiminti slaptažodį"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "Ar norite, kad „TrueSuite“ atsimintų šios svetainės slaptažodį?"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "Norėdami prisijungti prie „TrueSuite“, perbraukite pirštu jutiklį."
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "Įveskite pagrindinį slaptažodį"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "Arba įveskite „Windows“ slaptažodį"
+   },
+   "editText": {
+      "message": "Redaguoti žiniatinklio kortelę"
+   },
+   "reportText": {
+      "message": "Pranešti apie problemą"
+   },
+   "runAppText": {
+      "message": "Atidaryti „TrueSuite“..."
+   },
+   "storeText": {
+      "message": "App Store"
+   }
+}

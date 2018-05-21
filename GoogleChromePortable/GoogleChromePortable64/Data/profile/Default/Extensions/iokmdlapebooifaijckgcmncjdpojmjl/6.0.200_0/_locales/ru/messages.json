@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "Низкое качество считывания проведения по сенсору."
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "Нет совпадений."
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "Слишком быстро."
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "Слшком высоко."
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "Чрезмерное смещение влево."
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "Слишком низко."
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "Чрезмерное смещение вправо."
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "Слишком коротко."
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "Слишком неровно."
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "Слишком медленно."
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "Войдите с помощью основного пароля."
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "Неверный пароль."
+   },
+   "IDS_LEARN_MORE": {
+      "message": "подробнее"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "Войдите в систему"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "Никогда для этого сайта"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "Проверка отпечатков пальцев приостановлена. Щелкните здесь для продолжения."
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "Запомнить пароль"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "Запомнить ваш пароль для этого сайта в программе TrueSuite?"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "Проведите пальцем по поверхности сенсора, чтобы войти с помощью программы TrueSuite."
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "Введите основной пароль"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "или введите пароль Windows"
+   },
+   "editText": {
+      "message": "Редактировать веб-карту"
+   },
+   "reportText": {
+      "message": "Сообщить об ошибке"
+   },
+   "runAppText": {
+      "message": "Открыть TrueSuite..."
+   },
+   "storeText": {
+      "message": "App Store"
+   }
+}

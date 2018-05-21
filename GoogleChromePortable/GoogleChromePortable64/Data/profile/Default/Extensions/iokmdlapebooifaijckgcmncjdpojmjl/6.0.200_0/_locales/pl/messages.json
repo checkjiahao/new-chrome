@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "Nieprawidłowe przesunięcie, słaba jakość"
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "Nie znaleziono."
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "Przesunięcie za szybkie"
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "Przesunięcie za wysoko"
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "Przesunięcie za daleko w lewo"
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "Przesunięcie za nisko"
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "Przesunięcie za daleko w prawo"
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "Za krótkie przesunięcie"
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "Krzywe przesunięcie"
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "Przesunięcie za wolne"
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "Logowanie przy użyciu hasła głównego."
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "Hasło jest nieprawidłowe."
+   },
+   "IDS_LEARN_MORE": {
+      "message": "więcej informacji"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "Zaloguj"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "Nigdy dla tej witryny"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "Weryfikacja przy użyciu linii papilarnych została wstrzymana. Kliknij tutaj, aby kontynuować."
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "Zapamiętaj hasło"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "Czy chcesz, aby technologia TrueSuite zapamiętała hasło dla tej witryny?"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "Aby zalogować się przy użyciu technologii TrueSuite, należy przesunąć palec na czujniku."
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "Wpisz hasło główne"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "Lub wpisz hasło systemu Windows"
+   },
+   "editText": {
+      "message": "Edytowanie wizytówki internetowej"
+   },
+   "reportText": {
+      "message": "Zgłoś problem"
+   },
+   "runAppText": {
+      "message": "Otwórz TrueSuite..."
+   },
+   "storeText": {
+      "message": "App Store"
+   }
+}

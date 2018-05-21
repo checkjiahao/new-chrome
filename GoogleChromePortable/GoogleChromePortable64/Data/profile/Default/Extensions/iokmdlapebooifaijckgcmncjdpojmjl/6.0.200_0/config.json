@@ -1,0 +1,344 @@
+/***************************************************************************
+* Version: Config version.
+* UpdateTime: Last update time;
+* WebsiteList: Special website list.
+*   Domain: The webiste's domain.
+*   URL: The website's URL.
+*   IsAutoLogin: If it is true, user will login website after enroll finger.
+*   else, user will not login after enroll finger.
+*   IsRefreshOnLoginFailed: Whether the web page refresh after login failed.
+*   Username: User name control.
+*       Type: ID, Name, Tag, etc.
+*       Content: Value object.
+*           Value: The value.
+*           Index: The index.
+*   Password: Password control.
+*       ...
+*   Submit: Submit control.
+*       ...
+***************************************************************************/
+{
+    "Version": "1.0.1",
+    "UpdateTime": "2012-02-24",
+    "WebsiteList": [
+        {
+            "Domain": "weibo.com",
+            "URL": "http://(www.)?weibo.com",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": false,
+            "Username": { "Type": "ID", "Content": { "Value": "loginname"} },
+            "Password": { "Type": "ID", "Content": { "Value": "password"} },
+            "Submit": { "Type": "ID", "Content": { "Value": "login_submit_btn"} }
+        },
+
+        {
+            "Domain": "accompa.com",
+            "URL": "https://www.accompa.com/login.html",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": false,
+            "Username": { "Type": "Name", "Content": { "Value": "txt_email", "Index": 0} },
+            "Password": { "Type": "Name", "Content": { "Value": "txt_password", "Index": 0} },
+            "Submit": { "Type": "ID", "Content": { "Value": "cmd_submit"} }
+        },
+
+        {
+            "Domain": "authentec.com",
+            "URL": "http://support.authentec.com/login.aspx",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": false,
+            "Username": { "Type": "ID", "Content": { "Value": "dnn_ctr_Login_Login_DNN_txtUsername"} },
+            "Password": { "Type": "ID", "Content": { "Value": "dnn_ctr_Login_Login_DNN_txtPassword"} },
+            "Submit": { "Type": "ID", "Content": { "Value": "dnn_ctr_Login_Login_DNN_cmdLogin"} }
+        },
+
+        {
+            "Domain": "onlinebank.com",
+            "URL": "https://global1.onlinebank.com/vtg/preauthenticaterauser.htm",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": true,
+            "Username": { "Type": "Name", "Content": { "Value": "userid", "Index": 0} },
+            "Password": { "Type": "ID", "Content": { "Value": "password"} },
+            "Submit": { "Type": "Tag", "Content": { "Value": "a", "Index": 6} }
+        },
+
+        {
+            "Domain": "vistaprint.com",
+            "URL": "https://secure.vistaprint.com[\\s\\S]*sign_in.aspx",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": true,
+            "Username": { "Type": "ID", "Content": { "Value": "txtEmail"} },
+            "Password": { "Type": "ID", "Content": { "Value": "txtSignInPassword"} },
+            "Submit": { "Type": "ID", "Content": { "Value": "btnSignIn"} }
+        },
+
+        {
+            "Domain": "newegg.com",
+            "URL": "https://secure.newegg.com/NewMyAccount/AccountLogin.aspx",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": true,
+            "Username": { "Type": "ID", "Content": { "Value": "UserName"} },
+            "Password": { "Type": "ID", "Content": { "Value": "UserPwd"} },
+            "Submit": { "Type": "ID", "Content": { "Value": "submit"} }
+        },
+
+        {
+            "Domain": "dell.com",
+            "URL": "http://ecomm.dell.com/myaccount/login.aspx",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": true,
+            "Username": { "Type": "Name", "Content": { "Value": "email", "Index": 0} },
+            "Password": { "Type": "Name", "Content": { "Value": "password", "Index": 0} },
+            "Submit": { "Type": "Name", "Content": { "Value": "green_Btn", "Index": 0} }
+        },
+
+        {
+            "Domain": "sportsmansguide.com",
+            "URL": "https://www.sportsmansguide.com/net/account/Login.aspx",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": true,
+            "Username": { "Type": "ID", "Content": { "Value": "ctl00_cphMain_txtEmailAddress"} },
+            "Password": { "Type": "ID", "Content": { "Value": "ctl00_cphMain_txtPassword"} },
+            "Submit": { "Type": "ID", "Content": { "Value": "ctl00_cphMain_btnLogin"} }
+        },
+
+        {
+            "Domain": "costco.com",
+            "URL": "https://www.costco.com/Common/Login.aspx",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": true,
+            "Username": { "Type": "ID", "Content": { "Value": "_ctl0_EmailAddress"} },
+            "Password": { "Type": "ID", "Content": { "Value": "_ctl0_Password"} },
+            "Submit": { "Type": "ID", "Content": { "Value": "_ctl0_SubmitLogin"} }
+        },
+
+        {
+            "Domain": "nordstrom.com",
+            "URL": "https://secure.nordstrom.com/Signin.aspx",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": false,
+            "Username": { "Type": "ID", "Content": { "Value": "ctl00_mainContentPlaceHolder_signIn_email"} },
+            "Password": { "Type": "ID", "Content": { "Value": "ctl00_mainContentPlaceHolder_signIn_password"} },
+            "Submit": { "Type": "ID", "Content": { "Value": "ctl00_mainContentPlaceHolder_signIn_enterButton"} }
+        },
+
+        {
+            "Domain": "buy.com",
+            "URL": "https://ssl.buy.com/AC/loginAccount.aspx",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": true,
+            "Username": { "Type": "ID", "Content": { "Value": "ctl00_ContentPlaceHolder1_txtShopperEmail"} },
+            "Password": { "Type": "ID", "Content": { "Value": "ctl00_ContentPlaceHolder1_txtShopperPassword"} },
+            "Submit": { "Type": "ID", "Content": { "Value": "ctl00_ContentPlaceHolder1_btnBuyCheckout"} }
+        },
+        
+        {
+            "Domain": "sony.com",
+            "URL": "https://store.sony.com/webapp/wcs/stores/servlet/LogonForm",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": false,
+            "Username": { "Type": "ID", "Content": { "Value": "loginLogonId"} },
+            "Password": { "Type": "ID", "Content": { "Value": "loginLogonPassword"} },
+            "Submit": { "Type": "ID", "Content": { "Value": "loginButton"} }
+        },
+        
+        {
+            "Domain": "overstock.com",
+            "URL": "https://www.overstock.com/myaccount",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": true,
+            "Username": { "Type": "ID", "Content": { "Value": "EmailAddress2"} },
+            "Password": { "Type": "ID", "Content": { "Value": "EnterPassword"} },
+            "Submit": { "Type": "Name", "Content": { "Value": "submit", "Index": 1} }
+        },
+        
+        {
+            "Domain": "t-mobile.com",
+            "URL": "http://www.t-mobile.com/",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": false,
+            "Username": { "Type": "ID", "Content": { "Value": "myTMobile-phone"} },
+            "Password": { "Type": "ID", "Content": { "Value": "myTMobile-password"} },
+            "Submit": { "Type": "ID", "Content": { "Value": "myTMobile-login"} }
+        },
+        
+        {
+			"Domain": "xvideos.com",
+            "URL": "http://upload.xvideos.com/\\?compte",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": true,
+            "Username": { "Type": "Tag", "Content": { "Value": "input", "Index": 0} },
+            "Password": { "Type": "Tag", "Content": { "Value": "input", "Index": 1} },
+            "Submit": { "Type": "Tag", "Content": { "Value": "input", "Index": 2} }
+        },
+        
+        {
+			"Domain": "ifeng.com",
+            "URL": "^http://my.ifeng.com/$|^http://my.ifeng.com/\\?_c=index&_a=index&er=4$|^http://my.ifeng.com/\\?_c=index&_a=user-login$",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": true,
+            "Username": { "Type": "ID", "Content": { "Value": "uname"} },
+            "Password": { "Type": "ID", "Content": { "Value": "pass"} },
+            "Submit": { "Type": "ID", "Content": { "Value": "submit"} }
+        },
+        
+        {
+			"Domain": "pornhub.com",
+            "URL": "http://www.pornhub.com/",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": false,
+            "Username": { "Type": "ID", "Content": { "Value": "signin_username"} },
+            "Password": { "Type": "ID", "Content": { "Value": "signin_password"} },
+            "Submit": { "Type": "ID", "Content": { "Value": "signin_submit"} }
+        },
+        
+        {
+			"Domain": "cnet.com",
+            "URL": "http://www.cnet.com/",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": false,
+            "Username": { "Type": "Name", "Content": { "Value": "email", "Index": 5} },
+            "Password": { "Type": "Name", "Content": { "Value": "password", "Index": 4} },
+            "Submit": { "Type": "Tag", "Content": { "Value": "input", "Index": 51} }
+        },
+        
+        {
+			"Domain": "360buy.com",
+            "URL": "https://passport.360buy.com/new/login.aspx",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": false,
+            "Username": { "Type": "ID", "Content": { "Value": "loginname"} },
+            "Password": { "Type": "ID", "Content": { "Value": "loginpwd"} },
+            "Submit": { "Type": "ID", "Content": { "Value": "loginsubmit"} }
+        },
+        
+        {
+			"Domain": "imageshack.com",
+            "URL": "http://www.imageshack.us/",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": false,
+            "Username": { "Type": "ID", "Content": { "Value": "l_login"} },
+            "Password": { "Type": "ID", "Content": { "Value": "l_password"} },
+            "Submit": { "Type": "ID", "Content": { "Value": "okbtn_login"} }
+        },
+        
+        {
+			"Domain": "csdn.net",
+            "URL": "http://passport.csdn.net/account/login",
+            "IsAutoLogin": false,
+            "IsRefreshOnLoginFailed": false,
+            "Username": { "Type": "ID", "Content": { "Value": "u"} },
+            "Password": { "Type": "ID", "Content": { "Value": "p"} },
+            "Submit": { "Type": "ID", "Content": { "Value": "aLogin"} }
+        },
+        
+        {
+			"Domain": "archive.org",
+            "URL": "http://www.archive.org/account/login.php",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": true,
+            "Username": { "Type": "ID", "Content": { "Value": "username"} },
+            "Password": { "Type": "ID", "Content": { "Value": "password"} },
+            "Submit": { "Type": "ID", "Content": { "Value": "submit"} }
+        },
+        
+        {
+			"Domain": "iqiyi.com",
+            "URL": "http://www.iqiyi.com/",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": false,
+            "Username": { "Type": "ID", "Content": { "Value": "j-mail"} },
+            "Password": { "Type": "ID", "Content": { "Value": "j-pwd"} },
+            "Submit": { "Type": "ID", "Content": { "Value": "j-submit"} }
+        },
+        
+        {
+			"Domain": "hudong.com",
+            "URL": "http://passport.hudong.com/login.do",
+            "IsAutoLogin": false,
+            "IsRefreshOnLoginFailed": false,
+            "Username": { "Type": "ID", "Content": { "Value": "un"} },
+            "Password": { "Type": "ID", "Content": { "Value": "password2"} },
+            "Submit": { "Type": "ID", "Content": { "Value": "btnLogin"} }
+        },
+        
+        {
+			"Domain": "hardsextube.com",
+            "URL": "http://www.hardsextube.com/",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": false,
+            "Username": { "Type": "ID", "Content": { "Value": "username"} },
+            "Password": { "Type": "ID", "Content": { "Value": "password"} },
+            "Submit": { "Type": "ID", "Content": { "Value": "login_submit_btn"} }
+        },
+        
+        {
+			"Domain": "51.la",
+            "URL": "http://www.51.la/",
+            "IsAutoLogin": false,
+            "IsRefreshOnLoginFailed": true,
+            "Username": { "Type": "ID", "Content": { "Value": "uname"} },
+            "Password": { "Type": "ID", "Content": { "Value": "upass"} },
+            "Submit": { "Type": "Tag", "Content": { "Value": "input", "Index": 3} }
+        },
+        
+        {
+			"Domain": "ku6.com",
+            "URL": "http://passport.ku6.com/user/login.html",
+            "IsAutoLogin": false,
+            "IsRefreshOnLoginFailed": false,
+            "Username": { "Type": "ID", "Content": { "Value": "name"} },
+            "Password": { "Type": "ID", "Content": { "Value": "password"} },
+            "Submit": { "Type": "Tag", "Content": { "Value": "input", "Index": 4} }
+        },
+        
+        {
+			"Domain": "ikea.com",
+            "URL": "https://secure.ikea.com/webapp/wcs/stores/servlet/LogonForm",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": false,
+            "Username": { "Type": "ID", "Content": { "Value": "login_logonId"} },
+            "Password": { "Type": "ID", "Content": { "Value": "login_logonPassword"} },
+            "Submit": { "Type": "ID", "Content": { "Value": "jsButton_logon_01"} }
+        },
+        
+        {
+			"Domain": "allrecipes.com",
+            "URL": "http://allrecipes.com/",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": true,
+            "Username": { "Type": "ID", "Content": { "Value": "ctl00_AccessPanel_txtUserName"} },
+            "Password": { "Type": "ID", "Content": { "Value": "ctl00_AccessPanel_txtPassword"} },
+            "Submit": { "Type": "ID", "Content": { "Value": "ctl00_AccessPanel_btnLogIn"} }
+        },
+        
+        {
+			"Domain": "ibm.com",
+            "URL": "http://www.ibm.com",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": false,
+            "Username": { "Type": "ID", "Content": { "Value": "username"} },
+            "Password": { "Type": "ID", "Content": { "Value": "password"} },
+            "Submit": { "Type": "ID", "Content": { "Value": "ibm-signin-submit"} }
+        },
+        
+        {
+			"Domain": "megacloud.com",
+            "URL": "https://www.megacloud.com/",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": false,
+            "Username": { "Type": "Name", "Content": { "Value": "email", "Index": 0} },
+            "Password": { "Type": "Name", "Content": { "Value": "password", "Index": 0} },
+            "Submit": { "Type": "Name", "Content": { "Value": "loginBtn", "Index": 0} }
+        },
+        
+        {
+			"Domain": "delicious.com",
+            "URL": "https://www.delicious.com/login",
+            "IsAutoLogin": true,
+            "IsRefreshOnLoginFailed": false,
+            "Username": { "Type": "ID", "Content": { "Value": "firstInput"} },
+            "Password": { "Type": "Name", "Content": { "Value": "password", "Index": 0} },
+            "Submit": { "Type": "TagName", "Content": { "Value": "input", "Index": 0} }
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "Nem megfelelő húzás, rossz minőség."
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "Nincs találat."
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "Túl gyorsan húzta."
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "Túl magasan húzta."
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "Túl balra húzta."
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "Túl alacsonyan húzta."
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "Túl jobbra húzta."
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "Túl röviden húzta."
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "Túl ferdén húzta."
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "Túl lassan húzta."
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "Jelentkezzen be a mesterjelszavával."
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "A jelszó nem megfelelő."
+   },
+   "IDS_LEARN_MORE": {
+      "message": "további információ"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "Bejelentkezés"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "Ezen a webhelyen soha"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "Az ujjlenyomat-ellenőrzés szüneteltetve. A folytatáshoz kattintson ide."
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "Jelszó megjegyzése"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "Szeretné, hogy a TrueSuite megjegyezze az ehhez a webhelyhez tartozó jelszavát?"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "Húzza végig az ujját az olvasón a TrueSuite szolgáltatással történő bejelentkezéshez."
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "Írja be a fő jelszavát"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "Vagy írja be a Windows-jelszót"
+   },
+   "editText": {
+      "message": "Webkártya szerkesztése"
+   },
+   "reportText": {
+      "message": "Hiba jelentése"
+   },
+   "runAppText": {
+      "message": "A TrueSuite megnyitása..."
+   },
+   "storeText": {
+      "message": "App Store"
+   }
+}

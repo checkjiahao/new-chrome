@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "الضغطة سيئة وذات جودة منخفضة."
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "لا يوجد تطابق."
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "الضغطة سريعة جدًا."
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "الضغطة مرتفعة جدًا"
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "الضغطة ناحية اليسار بشكل أكثر من اللازم."
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "الضغطة منخفضة جدًا."
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "الضغطة ناحية اليمين بشكل أكثر من اللازم."
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "الضغطة قصيرة جدًا."
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "الضغطة مائلة بشكل أكثر من اللازم."
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "الضغطة بطيئة جدًا."
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "قم بتسجيل الدخول باستخدام كلمة المرور الأساسية الخاصة بك."
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "كلمة المرور الخاصة بك غير صحيحة."
+   },
+   "IDS_LEARN_MORE": {
+      "message": "معرفة المزيد"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "تسجيل الدخول"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "مطلقًا لهذا الموقع"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "تم إيقاف التحقق من بصمة بصمة الإصبع مؤقتًا. انقر هنا للمتابعة."
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "تذكر كلمة المرور"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "هل ترغب في أن يتذكر TrueSuite كلمة المرور الخاصة بك لهذا الموقع؟"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "اضغط بإصبعك على المستشعر لتسجيل الدخول إلى TrueSuite."
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "كتابة كلمة المرور الرئيسية"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "أو كتابة كلمة مرور Windows"
+   },
+   "editText": {
+      "message": "تحرير بطاقة الويب"
+   },
+   "reportText": {
+      "message": "الإبلاغ عن مشكلة"
+   },
+   "runAppText": {
+      "message": "جارٍ فتح TrueSuite..."
+   },
+   "storeText": {
+      "message": "App Store"
+   }
+}

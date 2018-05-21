@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "Pohyb prstem byl nesprávný, příliš nízká kvalita."
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "Nenalezena žádná shoda."
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "Pohyb prstem byl příliš rychlý."
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "Pohyb prstem byl proveden příliš vysoko."
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "Pohyb prstem byl proveden příliš vlevo."
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "Pohyb prstem byl proveden příliš nízko."
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "Pohyb prstem byl proveden příliš vpravo."
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "Pohyb prstem byl příliš krátký."
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "Pohyb prstem byl příliš šikmý."
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "Pohyb prstem byl příliš pomalý."
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "Přihlaste se pomocí hlavního hesla."
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "Vaše heslo je nesprávné."
+   },
+   "IDS_LEARN_MORE": {
+      "message": "další informace"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "Přihlaste se"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "Nikdy pro tento web"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "Ověvání otisku prstu bylo pozastaveno. Pokračujte klepnutím sem."
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "Zapamatovat heslo"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "Přejete si, aby si aplikace TrueSuite zapamatovala heslo pro tento web?"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "Chcete-li se přihlásit prostřednictvím aplikace TrueSuite, přejeďte prstem přes senzor."
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "Zadejte hlavní heslo"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "Nebo zadejte heslo k systému Windows"
+   },
+   "editText": {
+      "message": "Upravit webovou vizitku"
+   },
+   "reportText": {
+      "message": "Ohlásit problém"
+   },
+   "runAppText": {
+      "message": "Otevřít TrueSuite..."
+   },
+   "storeText": {
+      "message": "App Store"
+   }
+}

@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "Deslize insatisfatório. Baixa qualidade."
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "Nenhuma correspondência."
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "Dedo deslizado muito rápido."
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "Posição muito alta."
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "Posição muito para a esquerda."
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "Posição muito baixa."
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "Posição muito para a direita."
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "Resultado muito curto."
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "Dedo muito inclinado."
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "Dedo deslizado muito devagar."
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "Faça logon com sua senha mestra."
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "Sua senha não está correta."
+   },
+   "IDS_LEARN_MORE": {
+      "message": "saiba mais"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "Logon"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "Nunca para este site"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "A verificação da impressão digital foi pausada. Clique aqui para continuar."
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "Lembrar Senha"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "Deseja que o TrueSuite lembre sua senha para este site?"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "Deslize seu dedo sobre o sensor para fazer logon com o TrueSuite."
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "Digite a senha mestra"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "Ou digite a senha do Windows"
+   },
+   "editText": {
+      "message": "Editar Cartão da Web"
+   },
+   "reportText": {
+      "message": "Informar Problema"
+   },
+   "runAppText": {
+      "message": "Abrir o TrueSuite..."
+   },
+   "storeText": {
+      "message": "App Store"
+   }
+}

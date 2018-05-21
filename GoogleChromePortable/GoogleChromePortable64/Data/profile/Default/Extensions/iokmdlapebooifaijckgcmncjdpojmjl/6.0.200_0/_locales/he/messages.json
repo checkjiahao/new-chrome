@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "החלקה לא טובה, איכות ירודה."
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "אין התאמה."
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "החלקת מהר מדי."
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "החלקת גבוה מדי."
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "החלקת שמאלה מדי."
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "החלקת נמוך מדי."
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "החלקת ימינה מדי."
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "החלקה קצרה מדי."
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "החלקת הצידה מדי."
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "החלקת לאט מדי."
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "התחבר באמצעות הסיסמה הראשית שלך."
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "הסיסמה שלך שגויה."
+   },
+   "IDS_LEARN_MORE": {
+      "message": "למידע נוסף"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "כניסה"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "לעולם לא עבור אתר זה"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "אימות באמצעות טביעות אצבע הושהה. לחץ כאן כדי להמשיך."
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "זכור סיסמה"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "האם ברצונך ש-TrueSuite יזכור את הסיסמה שלך עבור אתר זה?"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "החלק את האצבע מעל החיישן כדי להיכנס ל-TrueSuite."
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "הקלד סיסמת מנהל"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "או הקלד סיסמת Windows"
+   },
+   "editText": {
+      "message": "עריכת כרטיס האינטרנט"
+   },
+   "reportText": {
+      "message": "דווח על בעיה"
+   },
+   "runAppText": {
+      "message": "פתח את TrueSuite..."
+   },
+   "storeText": {
+      "message": "App Store"
+   }
+}

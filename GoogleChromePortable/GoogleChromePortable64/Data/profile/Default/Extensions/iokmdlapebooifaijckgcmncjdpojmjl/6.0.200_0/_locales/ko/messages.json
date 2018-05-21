@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "올바르게 문지르지 않았습니다."
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "일치하지 않습니다."
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "너무 빨리 문질렀습니다."
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "너무 위로 문질렀습니다."
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "너무 왼쪽으로 문질렀습니다."
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "너무 아래로 문질렀습니다."
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "너무 오른쪽으로 문질렀습니다."
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "너무 짧게 문질렀습니다."
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "너무 구부러지게 문질렀습니다."
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "너무 천천히 문질렀습니다."
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "마스터 암호를 입력하여 로그인합니다."
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "암호가 잘못되었습니다."
+   },
+   "IDS_LEARN_MORE": {
+      "message": "자세히 알아보기"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "로그인"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "이 사이트용 아님"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "지문 확인이 일시 중지되었습니다.계속하려면 여기를 클릭하십시오."
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "암호 저장"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "이 사이트에 대한 암호를 TrueSuite에 저장하시겠습니까?"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "TrueSuite를 사용하여 로그인하려면 손가락을 센서에 문지릅니다."
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "마스터 암호 입력"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "또는 Windows 암호 입력"
+   },
+   "editText": {
+      "message": "웹 카드 편집"
+   },
+   "reportText": {
+      "message": "문제 보고"
+   },
+   "runAppText": {
+      "message": "TrueSuite 열기..."
+   },
+   "storeText": {
+      "message": "App Store"
+   }
+}

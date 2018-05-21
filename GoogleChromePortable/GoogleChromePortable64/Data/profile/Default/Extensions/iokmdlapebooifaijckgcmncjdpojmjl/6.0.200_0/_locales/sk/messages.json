@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "Pohyb prsta je nesprávny, nedostatočný."
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "Žiadna zhoda."
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "Pohyb prsta je príliš rýchly."
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "Pohyb prsta príliš vysoko."
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "Pohyb prsta príliš vľavo."
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "Pohyb prsta príliš nízko."
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "Pohyb prsta príliš vpravo."
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "Pohyb prsta je príliš krátky."
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "Pohyb prsta je príliš šikmý."
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "Pohyb prsta je príliš pomalý."
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "Prihláste sa pomocou svojho hlavného hesla."
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "Zadané heslo je nesprávne."
+   },
+   "IDS_LEARN_MORE": {
+      "message": "zistiť viac"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "Prihlásiť sa"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "Nikdy pre túto lokalitu"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "Overovanie odtlačku prstu je pozastavené. Ak chcete pokračovať, kliknite sem."
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "Zapamätať si heslo"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "Chcete, aby si program TrueSuite pre túto lokalitu pamätal vaše heslo?"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "Ak sa chcete prihlásiť pomocou programu TrueSuite, prejdite svojim prstom cez snímač."
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "Zadať hlavné heslo"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "Alebo zadať heslo Windows"
+   },
+   "editText": {
+      "message": "Upraviť webkartu"
+   },
+   "reportText": {
+      "message": "Oznámiť problém"
+   },
+   "runAppText": {
+      "message": "Otvoriť TrueSuite..."
+   },
+   "storeText": {
+      "message": "App Store"
+   }
+}

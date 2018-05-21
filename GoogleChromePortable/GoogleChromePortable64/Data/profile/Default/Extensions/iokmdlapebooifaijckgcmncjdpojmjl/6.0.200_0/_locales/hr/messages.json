@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "Loše, nekvalitetno prelaženje prstom."
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "Ne podudaraju se."
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "Prebrzo prelaženje prstom."
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "Previsoko prelaženje prstom."
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "Prelaženje prstom previše na lijevoj strani."
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "Prenisko prelaženje prstom."
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "Prelaženje prstom previše na desnoj strani."
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "Prekratko prelaženje prstom."
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "Prelaženje prstom previše ukoso."
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "Presporo prelaženje prstom."
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "Prijavite se putem svoje glavne lozinke."
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "Vaša lozinka nije točna."
+   },
+   "IDS_LEARN_MORE": {
+      "message": "Saznajte više"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "Prijava"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "Nikad za ovo web-mjesto"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "Provjera otska prsta privremeno je zaustavljena. Da biste nastavili, kliknite ovdje."
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "Zapamti lozinku"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "Želite li da TrueSuite zapamti vašu lozinku za ovo web-mjesto?"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "Prijeđite prstom preko senzora da biste se prijavili pomoću značajke TrueSuite."
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "Upišite glavnu lozinku"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "Ili upišite lozinku za Windows"
+   },
+   "editText": {
+      "message": "Uredi web karticu"
+   },
+   "reportText": {
+      "message": "Prijavi problem"
+   },
+   "runAppText": {
+      "message": "Otvori TrueSuite..."
+   },
+   "storeText": {
+      "message": "App Store"
+   }
+}

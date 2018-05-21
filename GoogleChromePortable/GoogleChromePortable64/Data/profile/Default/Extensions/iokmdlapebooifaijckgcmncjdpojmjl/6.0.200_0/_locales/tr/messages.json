@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "Hareket beklenen şekilde yapılmadı."
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "Eşleşme yok."
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "Parmağınızı çok hızlı geçirdiniz."
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "Parmağınızı çok yukarıdan geçirdiniz."
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "Parmağınızı fazla soldan geçirdiniz."
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "Parmağınızı çok yakından geçirdiniz."
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "Parmağınızı fazla sağdan geçirdiniz."
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "Parmağınızı geçirme hareketi beklenenden kısa sürdü."
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "Parmağınızı düz bir hareketle geçirmediniz."
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "Parmağınızı çok yavaş geçirdiniz."
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "Ana parolanızla oturum açın."
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "Parolanız yanlış."
+   },
+   "IDS_LEARN_MORE": {
+      "message": "daha fazla bilgi"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "Oturum aç"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "Bu site için asla"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "Parmak izi doğrulaması duraklatıldı. Devam etmek için burayı tıklatın."
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "Parolayı hatırla"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "TrueSuite'in bu site için parolanızı anımsamasını istiyor musunuz?"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "TrueSuite'te oturum açmak için parmağınızı sensörün üzerinden geçirin."
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "Ana parolayı gir"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "Veya Windows parolası gir"
+   },
+   "editText": {
+      "message": "Web Kartı Düzenle"
+   },
+   "reportText": {
+      "message": "Sorunu Bildir"
+   },
+   "runAppText": {
+      "message": "TrueSuite'i Aç..."
+   },
+   "storeText": {
+      "message": "Uygulama Mağazası"
+   }
+}

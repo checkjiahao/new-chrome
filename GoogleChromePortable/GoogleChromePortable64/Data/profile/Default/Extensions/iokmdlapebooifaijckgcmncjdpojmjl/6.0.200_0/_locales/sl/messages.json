@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "Poteg slabe kakovosti."
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "Ni ujemanja."
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "Poteg prehitro."
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "Poteg previsoko."
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "Poteg preveč v levo."
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "Poteg prenizko."
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "Poteg preveč v desno."
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "Poteg prekratko."
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "Poteg preveč poševno."
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "Poteg prepočasi."
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "Prijavite se z glavnim geslom."
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "Vaše geslo ni pravilno."
+   },
+   "IDS_LEARN_MORE": {
+      "message": "več"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "Prijava"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "Nikoli za to spletno mesto"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "Preverjanje prstnih odtisov se je zaustavilo. Če želite nadaljevati, kliknite tukaj."
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "Zapomni si geslo"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "Ali želite, da si TrueSuite zapomni vaše geslo za to spletno mesto?"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "Povlecite prst čez tipalo, da se prijavite v TrueSuite."
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "Vnesite glavno geslo"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "Ali vnesite geslo sistema Windows"
+   },
+   "editText": {
+      "message": "Uredi spletno kartico"
+   },
+   "reportText": {
+      "message": "Poročaj o zapletu"
+   },
+   "runAppText": {
+      "message": "Odpri TrueSuite..."
+   },
+   "storeText": {
+      "message": "App Store"
+   }
+}

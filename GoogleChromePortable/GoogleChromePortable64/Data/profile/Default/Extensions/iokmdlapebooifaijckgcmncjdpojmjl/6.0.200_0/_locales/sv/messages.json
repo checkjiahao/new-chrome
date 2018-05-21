@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "Dragning dålig, låg kvalitet."
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "Ingen matchning."
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "Dragningen för snabb."
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "Dragningen för hög."
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "Dragningen för långt åt vänster."
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "Dragningen för låg."
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "Dragningen för långt åt höger."
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "Dragningen för kort."
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "Dragningen för sned."
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "Dragningen för långsam."
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "Logga in med ditt huvudlösenord"
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "Ditt lösenord är felaktigt."
+   },
+   "IDS_LEARN_MORE": {
+      "message": "läs mer"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "Logga in"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "Aldrig för denna webbplats"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "Verifieringen av fingeravtrycket har pausats. Klicka här om du vill fortsätta."
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "Kom ihåg lösenord"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "Vill du att TrueSuite ska komma ihåg ditt lösenord för den här webbplatsen?"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "Dra fingret över sensorn om du vill logga in med TrueSuite."
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "Skriv huvudlösenordet"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "Eller skriv lösenordet för Windows"
+   },
+   "editText": {
+      "message": "Redigera webbkort"
+   },
+   "reportText": {
+      "message": "Rapportera fel"
+   },
+   "runAppText": {
+      "message": "Öppna TrueSuite"
+   },
+   "storeText": {
+      "message": "App Store"
+   }
+}

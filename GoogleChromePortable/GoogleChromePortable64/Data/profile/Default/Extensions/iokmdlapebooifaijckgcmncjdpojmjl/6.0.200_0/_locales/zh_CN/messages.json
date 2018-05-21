@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "滑动质量太差。"
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "无匹配项。"
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "滑得太快。"
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "滑得太高。"
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "滑得太左。"
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "滑得太低。"
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "滑得太右。"
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "滑得太短。"
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "滑得太斜。"
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "滑得太慢。"
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "使用主密码登录"
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "您的密码不正确。"
+   },
+   "IDS_LEARN_MORE": {
+      "message": "了解更多内容"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "登录"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "从不用于该站点"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "指纹验证已暂停。单击此处继续。"
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "记住密码"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "是否要 TrueSuite 记住您在该站点的密码?"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "请将您的手指滑过传感器，以使用 TrueSuite 登录。"
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "键入主密码"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "或键入 Windows 密码"
+   },
+   "editText": {
+      "message": "编辑 Web 卡"
+   },
+   "reportText": {
+      "message": "报告问题"
+   },
+   "runAppText": {
+      "message": "打开 TrueSuite..."
+   },
+   "storeText": {
+      "message": "App Store"
+   }
+}

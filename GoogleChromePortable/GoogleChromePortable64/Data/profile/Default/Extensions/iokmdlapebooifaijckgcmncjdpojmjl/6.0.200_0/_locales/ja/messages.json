@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "滑らし方が悪く、正確に読み取れませんでした。"
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "一致しません。"
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "滑らす速度が速すぎました。"
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "滑らす位置が高すぎました。"
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "滑らす位置が左に寄り過ぎていました。"
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "滑らす位置が高すぎました。"
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "滑らす位置が右に寄り過ぎていました。"
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "滑らす距離が不十分でした。"
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "滑らす方向が傾いていました。"
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "滑らす速度が遅すぎました。"
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "マスター パスワードでサイン インする"
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "そのパスワードは正しくありません。"
+   },
+   "IDS_LEARN_MORE": {
+      "message": "もっと詳しい情報"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "ログイン"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "このサイトではサイン インしない"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "指紋の検証が一時停止しました。クリックして続行します。"
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "パスワードを記憶する"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "TrueSuite にこのサイトのパスワードを記憶させますか?"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "指を滑らせて TrueSuite にサイン インしてください。"
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "マスター パスワードを入力する"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "または Windows のパスワードを入力する"
+   },
+   "editText": {
+      "message": "Web カードを編集する"
+   },
+   "reportText": {
+      "message": "問題をレポートする"
+   },
+   "runAppText": {
+      "message": "TrueSuite を開く..."
+   },
+   "storeText": {
+      "message": "App Store"
+   }
+}

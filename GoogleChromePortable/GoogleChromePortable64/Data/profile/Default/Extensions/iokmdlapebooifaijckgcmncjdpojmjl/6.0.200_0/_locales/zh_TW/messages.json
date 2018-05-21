@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "劃的品質太低。"
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "無相符項。"
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "劃太快。"
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "劃太高。"
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "劃太左。"
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "劃太低。"
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "劃太右。"
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "劃太短。"
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "劃太斜。"
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "劃太慢。"
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "使用您的主要密碼登入。"
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "您的密碼不正確。"
+   },
+   "IDS_LEARN_MORE": {
+      "message": "更多資訊"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "登入"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "此網站永不記"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "指紋驗證已暫停。按這裡以繼續。"
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "記住密碼"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "是否要讓 TrueSuite 記住您在這個網站所用的密碼?"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "在感應器上劃一下您的手指，以透過 TrueSuite 進行登入。"
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "輸入主要密碼"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "或輸入 Windows 密碼"
+   },
+   "editText": {
+      "message": "編輯 Web 卡"
+   },
+   "reportText": {
+      "message": "報告問題"
+   },
+   "runAppText": {
+      "message": "打開 TrueSuite..."
+   },
+   "storeText": {
+      "message": "App Store"
+   }
+}

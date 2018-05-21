@@ -1,0 +1,77 @@
+{
+   "IDS_BADSWIPE_LOW_QUALITY": {
+      "message": "Huono, heikkolaatuinen pyyhkäisy."
+   },
+   "IDS_BADSWIPE_NO_MATCH": {
+      "message": "Ei vastaavaa tietoa."
+   },
+   "IDS_BADSWIPE_TOO_FAST": {
+      "message": "Liian nopea pyyhkäisy."
+   },
+   "IDS_BADSWIPE_TOO_HIGH": {
+      "message": "Liian korkea pyyhkäisy."
+   },
+   "IDS_BADSWIPE_TOO_LEFT": {
+      "message": "Pyyhkäisy liikaa vasemmalla."
+   },
+   "IDS_BADSWIPE_TOO_LOW": {
+      "message": "Liian matala pyyhkäisy."
+   },
+   "IDS_BADSWIPE_TOO_RIGHT": {
+      "message": "Pyyhkäisy liikaa oikealla."
+   },
+   "IDS_BADSWIPE_TOO_SHORT": {
+      "message": "Liian lyhyt pyyhkäisy."
+   },
+   "IDS_BADSWIPE_TOO_SKEWED": {
+      "message": "Pyyhkäisy liian vinossa."
+   },
+   "IDS_BADSWIPE_TOO_SLOW": {
+      "message": "Liian hidas pyyhkäisy."
+   },
+   "IDS_ENTER_PASSWORD_NOTICE": {
+      "message": "Kirjaudu sisään pääsalasanallasi."
+   },
+   "IDS_INCORRECT_PASSWORD": {
+      "message": "Väärä salasana."
+   },
+   "IDS_LEARN_MORE": {
+      "message": "katso lisää"
+   },
+   "IDS_LOGIN_IN": {
+      "message": "Kirjaudu"
+   },
+   "IDS_NEVER_FOR_THIS_SITE": {
+      "message": "Ei koskaan tälle sivustolle"
+   },
+   "IDS_NO_FP_FOCUS": {
+      "message": "Sormenjälkitunnistus keskeytetty. Jatka napsauttamalla tästä."
+   },
+   "IDS_SAVE_PASSWORD": {
+      "message": "Muista salasana"
+   },
+   "IDS_SAVE_PASSWORD_NOTICE": {
+      "message": "Haluatko, että TrueSuite muistaa salasanasi tälle sivustolle?"
+   },
+   "IDS_SWIPE_FINGER": {
+      "message": "Kirjaudu TrueSuite'iin pyyhkimällä sormellasi tunnistimen yli."
+   },
+   "IDS_TYPE_MASTER_PASSWORD": {
+      "message": "Kirjoita pääsalasanasi"
+   },
+   "IDS_USE_WINDOWS_PASSWORD": {
+      "message": "Tai kirjoita Windows-salasana"
+   },
+   "editText": {
+      "message": "Muokkaa WWW-korttia"
+   },
+   "reportText": {
+      "message": "Ilmoita ongelma"
+   },
+   "runAppText": {
+      "message": "Avaa TrueSuite..."
+   },
+   "storeText": {
+      "message": "App Store"
+   }
+}
